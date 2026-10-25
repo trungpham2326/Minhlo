@@ -21,7 +21,7 @@
 ## Hình A.2 — Sơ đồ luồng hiện tại (AS-IS)
 
 ```mermaid
-flowchart LR
+flowchart TD
   subgraph DT["Đối tác bán hàng - kênh A"]
     D0["Đầu mối báo dự án trực tiếp cho Chuyển giao"]
     D1["Gửi lại biên bản"]
