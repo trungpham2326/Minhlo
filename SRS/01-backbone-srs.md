@@ -6,25 +6,6 @@
 
 ---
 
-## 0. Cách chọn loại Feature Spec (đọc trước khi tạo spec mới)
-
-**A. Dùng template NHỎ** (`02-feature-spec-nho.md`) — nếu phần lớn các ý sau đúng:
-- Effort ≤ 2 tuần.
-- Chỉ có 1 luồng xử lý chính, không cần tách thành các phần độc lập.
-- Không phụ thuộc / không bị ảnh hưởng bởi tính năng khác chạy song song.
-- Input – Xử lý – Output gói trong vài dòng, ít trường hợp.
-- Khách hàng hình dung được trong một lần review, không cần demo giữa chừng.
-
-**B. Dùng template LỚN** (`03-feature-spec-lon.md`) — nếu có **bất kỳ** tín hiệu nào:
-- Effort ≥ 3–4 tuần.
-- Tách được thành ≥ 2 phần việc độc lập (sub-feature).
-- Phụ thuộc hai chiều với tính năng khác.
-- Cần NFR riêng (hiệu năng, bảo mật đặc thù).
-- Rủi ro cao đi sai hướng nếu chỉ cho khách xem ở cuối → cần review giữa chừng.
-
-**C. Mập mờ (2–3 tuần, không chắc):** tự hỏi *"Nếu làm sai, sửa lại có mất > 3–4 người-ngày không?"* — Có → **Lớn** (an toàn hơn, có mốc review để dừng sớm); Không → **Nhỏ**.
-
----
 
 ## 1. Giới thiệu
 
