@@ -1,8 +1,6 @@
 # Bộ sơ đồ — ERP Công ty A (Phần A)
 
-> Toàn bộ sơ đồ viết bằng **Mermaid**, tách ra từ tài liệu Phần A. Mã hình khớp với tham chiếu trong file Word (Hình A.2, A.3.1…).
-> Xem/xuất ảnh: dán từng khối vào https://mermaid.live, hoặc dùng draw.io (Arrange → Insert → Advanced → Mermaid), hoặc mở file này trong trình xem Markdown có hỗ trợ Mermaid (VS Code, GitHub, Obsidian).
-> Mỗi cột trong sơ đồ tuần tự là một **làn (phòng ban)**. Thời hạn mặc định 5/10/15 ngày, 1–2 ngày, 2 tuần, 3 lần lấy từ quy định hiện hành; hạn chưa có trong đề ghi là tham số.
+
 
 ## Mục lục
 
