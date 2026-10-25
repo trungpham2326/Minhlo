@@ -1,9 +1,5 @@
 # SRS Backbone — ERP Quản trị nội bộ Công ty A (`ERP-CongTyA`)
 
-> **Phiên bản:** v1.1 (Draft) · **Ngày:** 23/10/2026 · **Nguồn đầu vào:** `Requirement.md` (đề bài PO — Công ty A, phần mềm y tế) · **Người soạn:** PO/BA
-> Tài liệu này viết **một lần, dùng chung** cho cả dự án. Chi tiết từng tính năng nằm ở các file Feature Spec riêng (Nhỏ / Lớn), liên kết ở mục 4.
-> Đây là **nguồn sự thật duy nhất** về: bối cảnh, actor, giả định, NFR chung, backlog và trạng thái traceability toàn dự án.
-
 ---
 
 
