@@ -1,8 +1,8 @@
-# Minhlo
+# Dự án ERP nội bộ
 
 ## Giới thiệu
 
-Minhlo là dự án nghiên cứu và thiết kế hệ thống ERP nội bộ cho Công ty A, tập trung vào quản lý chuỗi dự án, hợp đồng, hóa đơn, công nợ, yêu cầu khách hàng và bàn giao triển khai.
+Dự án ERP nội bộ là dự án nghiên cứu và thiết kế hệ thống ERP nội bộ cho Công ty A, tập trung vào quản lý chuỗi dự án, hợp đồng, hóa đơn, công nợ, yêu cầu khách hàng và bàn giao triển khai.
 
 Dự án được xây dựng theo tài liệu SRS Backbone và mô hình nghiệp vụ, nhằm chuẩn hóa quy trình vận hành giữa các phòng ban: Kinh doanh, Chuyển giao, CSKH, Kế toán, Phần mềm, Hành chính – Nhân sự và Ban Giám đốc.
 
@@ -65,7 +65,7 @@ Bản mô hình dữ liệu khái niệm được lưu trong thư mục `Model/M
 ## Cấu trúc repository
 
 ```text
-Minhlo/
+Dự án ERP nội bộ/
 ├── README.md
 ├── SRS/
 │   └── 01-backbone-srs.md
@@ -94,4 +94,4 @@ Dự án có mục tiêu thực hiện trong giai đoạn MVP theo các tính n�
 
 ---
 
-Minhlo là nền tảng hỗ trợ quản trị nội bộ doanh nghiệp, giúp tăng minh bạch vận hành, giảm sai sót trong bàn giao, tăng kiểm soát doanh thu và cải thiện trải nghiệm xử lý yêu cầu khách hàng.
+Dự án ERP nội bộ là nền tảng hỗ trợ quản trị nội bộ doanh nghiệp, giúp tăng minh bạch vận hành, giảm sai sót trong bàn giao, tăng kiểm soát doanh thu và cải thiện trải nghiệm xử lý yêu cầu khách hàng.
